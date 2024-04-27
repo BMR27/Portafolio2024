@@ -1,33 +1,31 @@
-<div align="center">
-<img src="https://res.cloudinary.com/juanjportfolio/image/upload/v1710116381/Assets/brand/logoBrand_h9ilny.png" style="margin-bottom:2rem" height="90px" width="auto" /> 
-<h1>
-Protafolio de trabajo para Desarrolladores Web
-</h1>
-<p>
-Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
-</p>
-<p>
-Basado en el diseño de <a href="https://github.com/midudev/porfolio.dev">Miguel Ángel Durán</a>
-</p>
-<section align="center">
-<img src="https://img.shields.io/github/last-commit/JJGarciaMartinez/Portfolio_current.svg" />
-<img src="https://img.shields.io/github/license/JJGarciaMartinez/Portfolio_current.svg" />
-<img src="https://img.shields.io/github/forks/JJGarciaMartinez/Portfolio_current.svg" />
-<img src="https://img.shields.io/github/stars/JJGarciaMartinez/Portfolio_current.svg" />
-</section>
-</div>
+Nombre del Proyecto: Portafolio de Trabajo de un Programador
 
-<div align="center">
+Descripción:
 
-![Astro](https://img.shields.io/badge/Astro-E34F3a?style=for-the-badge&logo=Astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+El proyecto consiste en el desarrollo de un sitio web personal que actúa como un portafolio para un programador. Este sitio web sirve como una plataforma centralizada donde el programador puede mostrar su experiencia, habilidades, proyectos anteriores y otra información relevante para posibles empleadores o clientes potenciales.
 
+Características Principales:
 
-</div>
+Sobre Mí: Una sección que ofrece una breve introducción sobre el programador, incluyendo su experiencia, educación, habilidades destacadas y su enfoque en el desarrollo de software.
+Experiencia Laboral: Una lista detallada de la experiencia laboral del programador, incluyendo los roles desempeñados, las empresas para las que ha trabajado, las responsabilidades y logros destacados en cada posición.
+Proyectos Destacados: Una galería de proyectos destacados en los que el programador ha trabajado. Cada proyecto incluye una descripción, tecnologías utilizadas, capturas de pantalla y enlaces a repositorios de código o sitios web en vivo cuando corresponda.
+Habilidades Técnicas: Una lista de las habilidades técnicas del programador, organizadas por categorías como lenguajes de programación, frameworks, tecnologías de frontend y backend, bases de datos, entre otros.
+Educación y Certificaciones: Información sobre la educación académica del programador, incluyendo títulos universitarios, cursos adicionales y certificaciones relevantes en el campo de la informática y la programación.
+Blog o Artículos Técnicos: Opcionalmente, una sección donde el programador puede compartir sus pensamientos, conocimientos y experiencias a través de artículos técnicos, tutoriales o reflexiones sobre la industria de la tecnología.
+Tecnologías Utilizadas:
 
-<figure>
-<img src="https://res.cloudinary.com/juanjportfolio/image/upload/v1709213976/ScreenShots/563shots_so_x1yl4f.png" />
-</figure>
+HTML/CSS/JavaScript: Para la estructura, estilo y funcionalidad del sitio web.
+Framework Frontend: Como Angular, React o Vue.js para crear una interfaz de usuario dinámica y receptiva.
+Bootstrap o Material Design: Para un diseño moderno y responsivo.
+Git/GitHub: Para control de versiones y gestión de código fuente.
+Servicios de alojamiento web: Como GitHub Pages, Netlify o Firebase Hosting para alojar el sitio web en línea.
+Beneficios:
+
+Marca Personal: Ayuda al programador a crear una marca personal fuerte y profesional en línea, lo que puede aumentar su visibilidad y oportunidades laborales.
+Demostración de Habilidades: Permite al programador demostrar sus habilidades técnicas y experiencia a posibles empleadores o clientes potenciales a través de proyectos y casos de estudio reales.
+Facilita la Búsqueda de Empleo: Sirve como una herramienta poderosa durante la búsqueda de empleo, ya que proporciona a los reclutadores una visión clara y detallada del perfil del programador.
+Posibles Ampliaciones Futuras:
+
+Integración con APIs de redes profesionales como LinkedIn para mostrar actualizaciones de perfil en tiempo real.
+Incorporación de un sistema de comentarios o formularios de contacto para que los visitantes puedan ponerse en contacto con el programador.
+Implementación de análisis de tráfico web para obtener información sobre los visitantes del sitio y su comportamiento.

@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Juan García",
-    "label": "Egresado del bootcamp de SoyHenry y Desarrollador Web Full Stack Junior de México en busca de mi primera oportunidad laboral. 5 años de estudio en el sector.",
-    "image": "https://res.cloudinary.com/juanjportfolio/image/upload/v1707274229/Profile%20Pic/ProfileGrande_su2lwm.webp",
-    "email": "juanjgarcia230@gmail.com",
-    "github": "https://github.com/JJGarciaMartinez",
-    "phone": "(+52) 56 1373 1029",
+    "name": "Bryan Mejia",
+    "label": "Desarrollador de software Mente creativa y un corazón apasionado por la innovación. Ingeniero de sistemas comprometido con la excelencia técnica y la innovación de TI.",
+    "image": "https://res.cloudinary.com/delkzulop/image/upload/v1714028154/image_1_mccfhc.jpg",
+    "email": "bmr1919@hotmail.com",
+    "github": "https://github.com/BMR27",
+    "phone": "(+52) 56 1120 5872",
     "avaliable": true,
     "summary": "Con una dedicación de 5 años al estudio del desarrollo web, me encuentro actualmente en busca de mi primera oportunidad laboral en este apasionante campo. Resido en el Estado de México, México, y durante los últimos dos años he enfocado mis esfuerzos en especializarme en el desarrollo web. Me considero una persona responsable, proactiva, con una gran capacidad de aprendizaje y una motivación inquebrantable por crecer en esta industria.",
     "location": {
       "address": "",
-      "postalCode": "56020",
+      "postalCode": "54744",
       "city": "Estado de México, México",
       "countryCode": "MX",
       "region": "México"
@@ -18,46 +18,72 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "Juan García",
-        "url": "https://www.linkedin.com/in/juanjgarcia23"
+        "username": "Bryan Mejia Ruiz",
+        "url": "https://www.linkedin.com/in/bryan-m-3b39484b/"
       },
       {
         "network": "X",
-        "username": "@JuanGMc23",
-        "url": "https://twitter.com/JuanGMc23"
+        "username": "@BryanMejia2792",
+        "url": "https://twitter.com/"
       },
       {
         "network": "GitHub",
-        "username": "JJGarciaMartinez",
-        "url": "https://github.com/JJGarciaMartinez"
+        "username": "BMR27",
+        "url": "https://github.com/BMR27"
       },
       {
         "network": "WhatsApp",
         "username": "Whatsapp",
-        "url": "https://wa.me/525613731029"
+        "url": "https://wa.me/5611205872"
       }
     ]
   },
   "work": [
     {
-      "name": "Gestor de Embarcaciones",
-      "company": "El Bigua",
-      "position": "FrontEnd Web Developer",
-      "startDate": "2024-02-26",
-      "endDate": null,
-      "summary": "Participo como diseñador web y desarrollador de FrontEnd en el proyecto de Gestor de Embarcaciones, una empresa club para embarcaciones. En colaboración con un equipo de 6 desarrolladores en total, me encargo del diseño y la interfaz de usuario de la plataforma que permite la gestión de embarcaciones.",
-      "type": "Freelance",
+      "name": "Líder Técnico y Analista Desarrollador",
+      "company": "Banco Promerica CR",
+      "position": "Líder Técnico y Analista desarrollador",
+      "startDate": "2022-02-10",
+      "endDate": "2024-02-10",
+      "summary": "Mis funciones: Manejo de repositorios, creación de tickets en Azure, revisión de estructura de código, implementación de buenas prácticas al realizar desarrollos, estandarización de formatos, manejo de la plataforma AWS, revisión, control y creación de funciones relacionadas con RPA utilizadas en su momento. Brindar soporte a los desarrolladores tanto en la web, móvil y bot, brindando soluciones inmediatas y eficientes si es necesario. Mantenimiento de entornos, tanto en desarrollo como en entornos de prueba, realizando transiciones a producción. supervisión y mantenimiento de bases de datos. Automatización de transiciones a producción a través de diferentes sistemas. Solución de problemas de bases de datos Oracle.",
+      "type": "Empleado",
       "url": "https://github.com/Club-de-pesca-El-Bigua/El-Bigua-app"
     },
     {
-      "name": "Kimey Petshop",
-      "company": "Soy Henry",
-      "position": "FrontEnd Web Developer",
-      "url": "https://pet-shop-kimeipetshop.vercel.app/",
-      "startDate": "2023-11-27",
-      "endDate": "2024-01-18",
-      "summary": "Participé como desarrollador de Front End en el proyecto de Kimey Petshop, una tienda dedicada a ofrecer accesorios y alimentos para distintas mascotas. En colaboración con un equipo de tres desarrolladores adicionales, me encargué del diseño y desarrollo completo de la interfaz de usuario de la plataforma.",
-      "type": "Proyecto"
+      "name": "Líder Técnico y Desarrollador",
+      "company": "Instacredit",
+      "position": "Líder Técnico y Desarrollador",
+      "startDate": "2019-02-20",
+      "endDate": "2022-01-18",
+      "summary": "Mis funciones: Gestión de repositorios, creación de tickets en Azure, revisión de estructura de código, implementación de buenas prácticas a la hora de realizar desarrollos, estandarización de formatos, gestión de la plataforma AWS, revisión, control y creación de funciones relacionadas con RPA utilizadas en ese momento. Brindar soporte a desarrolladores tanto en la web, móvil y bot, proporcionando soluciones inmediatas y eficientes si es necesario. Mantenimiento de entornos, tanto en entornos de desarrollo como de prueba, realizando transiciones a producción. supervisión y mantenimiento de bases de datos..",
+      "type": "Empleado"
+    },
+    {
+      "name": "Ingeniero de Software WEB  y Movil",
+      "company": "Colegio de Ingenieros y Arquitectos",
+      "position": "Ingeniero de Software",
+      "startDate": "2017-08-13",
+      "endDate": "2019-06-18",
+      "summary": "Mis funciones: Implementación de requerimientos para software de crédito, gestión de servicios WEB, interfaz de programación de aplicaciones (API), implementación de bases de datos (CRUD, Procedimientos Almacenados, entre otras), estas sobre la plataforma Visual Studio IDE y SQL Server. Publicaciones en diferentes entornos, manejo de la metodología Scrum. Reconstrucción de aplicación para IOS y Android en React Native, creación de nuevas funciones, mantenimiento y publicaciones en la tienda.",
+      "type": "Empleado"
+    },
+    {
+      "name": "Desarrollador y Analista de Sistemas",
+      "company": "Grupo Prides",
+      "position": "Desarrollador y Analista de Sistemas",
+      "startDate": "2015-04-15",
+      "endDate": "2017-09-27",
+      "summary": "Mis funciones: Desarrollo de requerimientos, creación de funcionalidades para aplicaciones móviles, implementación de funcionalidades tanto en aplicaciones móviles como web. Creación de laboratorios para verificar la viabilidad de las funcionalidades del proyecto. Planificación de entregables, pasos a producción, estandarización de bases de datos. Revisión de Pull Request, aprobación, revisión de ambientes productivos. Análisis y creación de arquitecturas de trabajo óptimas para los proyectos a iniciar. Desarrollo de interfaces tanto en React, React nativo, Flutter y otros..",
+      "type": "Empleado"
+    },
+    {
+      "name": "QA Tester Automatizado y Manual",
+      "company": "Evertec",
+      "position": "QA Tester Automatizado y Manual",
+      "startDate": "2014-01-17",
+      "endDate": "2015-02-18",
+      "summary": "Mis funciones: Desarrollo de patrones de diseño, revisión de módulos de programación, uso de tesling, selenium y otras herramientas de control de calidad.",
+      "type": "Empleado"
     }
   ],
   "education": [
@@ -181,6 +207,16 @@
       "name": "Astro",
       "logo": "https://res.cloudinary.com/juanjportfolio/image/upload/v1707347297/Assets/astro_txgkjs.svg",
       "color": "255,93,1"
+    },
+    {
+      "name": "Azure",
+      "logo": "https://res.cloudinary.com/delkzulop/image/upload/v1714093580/azure_ntgum6.jpg",
+      "color": "60,117,194"
+    },
+    {
+      "name": "Amazon",
+      "logo": "https://res.cloudinary.com/delkzulop/image/upload/v1714093712/aws_b4sk9j.png",
+      "color": "240,219,79"
     }
   ],
   "languages": [
@@ -196,9 +232,9 @@
   "references": [],
   "projects": [
     {
-      "name": "Layout Challenge",
+      "name": "Tienda de Comida Rapida",
       "isActive": false,
-      "description": "Parte de mi formación como desarrollador web front end, he estado practicando mis skills maquetando paginas web en React.",
+      "description": "Parte del crecimiento en diferentes herramientas se realizo esta pagina con el fin de poder implementar el maquetado de paginas web en React.",
       "technologies": [
         {
           "name": "HTML5",
@@ -226,14 +262,14 @@
           "color": "51,153,51"
         }
       ],
-      "url": "https://layout-challenge-zeta.vercel.app/",
-      "github": "https://github.com/JJGarciaMartinez/Layout-Challenge",
-      "image": "https://res.cloudinary.com/juanjportfolio/image/upload/v1711662455/ScreenShots/450shots_so_h2fdiq.webp"
+      "url": "https://bmr27.github.io/FastFoodGo/",
+      "github": "https://github.com/BMR27/FastFoodGo",
+      "image": "https://res.cloudinary.com/delkzulop/image/upload/v1714086404/Captura_de_pantalla_2024-04-25_a_la_s_17.05.59_suqbtu.png"
     },
     {
-      "name": "Portfolio",
+      "name": "Pagina de consulta de peliculas",
       "isActive": true,
-      "description": "Mi portfolio personal. Conocimientos, experiencias y proyectos. (Version 1.24.1)",
+      "description": "Implementacion de gran variedad de herramientas, dentro de esto la utilidad de la asincronia de JS.",
       "technologies": [
         {
           "name": "TypeScript",
@@ -264,12 +300,12 @@
       ],
       "url": "https://www.juangarcia-dev.com/",
       "github": "https://github.com/JJGarciaMartinez/Portfolio_current",
-      "image": "https://res.cloudinary.com/juanjportfolio/image/upload/v1711662454/ScreenShots/298shots_so_yb79eb.webp"
+      "image": "https://res.cloudinary.com/delkzulop/image/upload/v1714087126/Captura_de_pantalla_2024-04-25_a_la_s_17.16.54_yrdt5m.png"
     },
     {
-      "name": "Kimey Petshop",
+      "name": "Sistema de Inventario",
       "isActive": true,
-      "description": "Ecommerce de mascotas en linea, pensada para comprar alimento, accesorios y cuidado de la mascota",
+      "description": "Proyecto de Inventario realizado en Visual Studio con el lenguaje de C#, Blazor y Entity Framework, además de SQL SERVER para el almacenamineto de las bases de datos. El proyecto consiste en un sistema de inventariado donde se pueden registrar los productos junto con todo un sistema de almacenaje.",
       "technologies": [
         {
           "name": "JavaScript",
@@ -312,14 +348,14 @@
           "color": "87,87,87"
         }
       ],
-      "url": "https://pet-shop-peach.vercel.app/",
-      "github": "https://github.com/PF-Henrry/petShop",
-      "image": "https://res.cloudinary.com/juanjportfolio/image/upload/v1711662456/ScreenShots/78shots_so_zrxwhk.webp"
+      "url": "https://github.com/BMR27/Warehouse-Web",
+      "github": "https://github.com/BMR27/Warehouse-Web",
+      "image": "https://res.cloudinary.com/delkzulop/image/upload/v1714090794/Captura_de_pantalla_2024-04-25_a_la_s_18.19.14_cgrbvt.png"
     },
     {
-      "name": "Proyecto Individual - Dogs",
+      "name": "Creacion de Torneos de Futbol",
       "isActive": true,
-      "description": "Proyecto individual para el bootcamp de Soy Henry, hecho con React.js para el frontend y PostgreSQL para la base de datos",
+      "description": "Proyecto Web, cuya función es la realización de torneos de fútbol. Su implementación conlleva una serie de mantenimientos dentro de los cuales se implementan el registro, la actualización y eliminación de cada uno de los puntos que rigen en la funcionalidad de la página.",
       "technologies": [
         {
           "name": "JavaScript",
@@ -362,14 +398,14 @@
           "color": "49,100,140"
         }
       ],
-      "url": "https://pi-dogs-sable.vercel.app/",
-      "github": "https://github.com/JJGarciaMartinez/PI-Dogs",
-      "image": "https://res.cloudinary.com/juanjportfolio/image/upload/v1711662454/ScreenShots/998shots_so_rq9hax.webp"
+      "url": "https://github.com/BMR27/Futboleros-Web",
+      "github": "https://github.com/BMR27/Futboleros-Web",
+      "image": "https://res.cloudinary.com/delkzulop/image/upload/v1714091684/Captura_de_pantalla_2024-04-25_a_la_s_18.32.27_gqgtux.png"
     },
     {
-      "name": "Rick and Morty API",
+      "name": "Pagina Web Informativa",
       "isActive": false,
-      "description": "Consumo de la Api de Rick and Morty, proyecto web para el bootcamp de Soy Henry, hecho con React.js para el frontend y PostgreSQL para la base de datos",
+      "description": "Página descriptiva de Academia de Taekwondo",
 
       "technologies": [
         {
@@ -413,15 +449,36 @@
           "color": "49,100,140"
         }
       ],
-      "github": "https://github.com/JJGarciaMartinez/rickAndMorty",
-      "image": "https://res.cloudinary.com/juanjportfolio/image/upload/v1712425063/ScreenShots/50shots_so_fy5dif.png"
+      "url": "https://bmr27.github.io/Academia-Taekwondo/",
+      "github": "https://github.com/BMR27/Academia-Taekwondo",
+      "image": "https://res.cloudinary.com/delkzulop/image/upload/v1714092603/Captura_de_pantalla_2024-04-25_a_la_s_18.49.18_ga8kbn.png"
     },
     {
-      "name": "JavaFX ATM",
+      "name": "Ecommerce 2024",
       "isActive": false,
-      "description": "Pequeño proyecto de JavaFX hecho para mi universidad para simular un cajero automático",
+      "description": "Ecommerce hecho en angular para la venta de productos de diversas categorias, ademas de su carrito de compras, y su configuracion de las pasarelas de pago",
 
       "technologies": [
+        {
+          "name": "JavaScript",
+          "logo": "https://res.cloudinary.com/juanjportfolio/image/upload/v1707347295/Assets/javascript_ao5e9q.svg",
+          "color": "240,219,79"
+        },
+        {
+          "name": "CSS3",
+          "logo": "https://res.cloudinary.com/juanjportfolio/image/upload/v1707347295/Assets/css_vmdclt.svg",
+          "color": "21,114,182"
+        },
+        {
+          "name": "React.js",
+          "logo": "https://res.cloudinary.com/juanjportfolio/image/upload/v1707347298/Assets/react_ivwxfq.svg",
+          "color": "97,218,251"
+        },
+        {
+          "name": "Redux.js",
+          "logo": "https://res.cloudinary.com/juanjportfolio/image/upload/v1707347297/Assets/redux_fhw8a3.svg",
+          "color": "118,74,188"
+        },
         {
           "name": "JavaFX",
           "logo": "https://res.cloudinary.com/juanjportfolio/image/upload/v1707421115/Assets/java_gcd485.svg",
@@ -443,13 +500,14 @@
           "color": "39,40,45"
         }
       ],
-      "github": "https://github.com/JJGarciaMartinez/JavaFX-ATM",
-      "image": "https://res.cloudinary.com/juanjportfolio/image/upload/v1711662456/ScreenShots/657shots_so_cjolhj.webp"
+      "url": "https://tienda.usacomputer.com.mx/",
+      "github": "https://github.com/BMR27/Ecommerce2024",
+      "image": "https://res.cloudinary.com/delkzulop/image/upload/v1714093013/Captura_de_pantalla_2024-04-25_a_la_s_18.56.29_cob2k9.png"
     },
     {
-      "name": "Primer Portfolio",
+      "name": "Portfolio Bryan Mejia",
       "isActive": false,
-      "description": "Este es mi primer portfolio hecho con tecnologías vanilla, este fue hecho hace 2 años.",
+      "description": "Portafolio realizado con una variedad de tecnologias para poder exponer los proyectos realizados, asi como la experiencia.",
 
       "technologies": [
         {
@@ -473,9 +531,40 @@
           "color": "71,74,138"
         }
       ],
-      "url": "https://portfolio-v1-lyart-eight.vercel.app/",
+      "url": "http://localhost:4321/#experiencia",
       "github": "https://github.com/JJGarciaMartinez/Portfolio_v1",
-      "image": "https://res.cloudinary.com/juanjportfolio/image/upload/v1711662457/ScreenShots/13shots_so_v5jmtm.webp"
+      "image": "https://res.cloudinary.com/delkzulop/image/upload/v1714093322/Captura_de_pantalla_2024-04-25_a_la_s_19.00.26_kkimrv.png"
+    },
+    {
+      "name": "Panel Administrador",
+      "isActive": false,
+      "description": "Panel administrador para insertar informarcion a ecommerce 2024.",
+
+      "technologies": [
+        {
+          "name": "HTML5",
+          "logo": "https://res.cloudinary.com/juanjportfolio/image/upload/v1707347296/Assets/html5_pm2ukg.svg",
+          "color": "227,79,38"
+        },
+        {
+          "name": "CSS3",
+          "logo": "https://res.cloudinary.com/juanjportfolio/image/upload/v1707347295/Assets/css_vmdclt.svg",
+          "color": "21,114,182"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://res.cloudinary.com/juanjportfolio/image/upload/v1707347295/Assets/javascript_ao5e9q.svg",
+          "color": "240,219,79"
+        },
+        {
+          "name": "PHP",
+          "logo": "https://res.cloudinary.com/juanjportfolio/image/upload/v1709106185/Assets/php_dark_ye02ex.svg",
+          "color": "71,74,138"
+        }
+      ],
+      "url": "https://admin.usacomputer.com.mx/products/list/edit/28",
+      "github": "https://github.com/BMR27/admin_ecommerce2024/tree/master",
+      "image": "https://res.cloudinary.com/delkzulop/image/upload/v1714191495/Captura_de_pantalla_2024-04-26_a_la_s_22.14.57_hdjiog.png"
     }
   ]
 }
